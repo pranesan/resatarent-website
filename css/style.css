@@ -1,7 +1,8 @@
+/********** Template CSS **********/
 :root {
-    --primary:#fdad00;
+    --primary: #fdad00;
     --light: #F1F8FF;
-    --dark: #0F172B;
+   
 }
 
 .ff-secondary {
@@ -160,7 +161,6 @@
 .hero-header img {
     animation: imgRotate 50s linear infinite;
 }
-
 
 
 .breadcrumb-item + .breadcrumb-item::before {
